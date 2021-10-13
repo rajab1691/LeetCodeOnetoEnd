@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/longest-substring-without-repeating-characters
 
 /*  
-      T.C= O(n) and S.C= O(1)
+      T.C= O(n) and S.C= O(n)
     ->Acquire till it becomes invalid and Release till it becomes valid
 */
 
